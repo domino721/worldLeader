@@ -3,7 +3,7 @@
 ### Learning & Sharing 준비
 - Learning & Sharing
 
-  - 팀명 - 파파이통!!
+  - 팀명 - 파이통!!
 
   - 학습목표
 
